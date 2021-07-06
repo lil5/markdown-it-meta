@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-meta",
-  "version": "0.0.1",
+  "version": "0.0.2-beta.1",
   "scripts": {
     "test": "eslint --fix . && mocha"
   },
